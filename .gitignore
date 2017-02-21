@@ -1,2 +1,5 @@
 cmd/docker-machine-driver-kvm/docker-machine-driver-kvm
 *.sw*
+.project
+cmd/docker-machine-driver-qemu/darwin
+cmd/docker-machine-driver-qemu/linux
